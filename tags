@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+X	run.py	/^X = data[:, 0]$/;"	v
+alpha	run.py	/^alpha = 0.01 # Learning rate. How fast should our model converge?$/;"	v
+cost_function	run.py	/^def cost_function(θ, X, y):$/;"	f
+data	run.py	/^data = np.as_matrix($/;"	v
+gradient_descent_runner	run.py	/^def gradient_descent_runner(X, y, θ, alpha, n_iters):$/;"	f
+h	run.py	/^def h(θ, x):$/;"	f
+math	run.py	/^import math$/;"	i
+n_iters	run.py	/^n_iters = 1000 # Number of iterations$/;"	v
+np	run.py	/^import numpy as np$/;"	i
+step_gradient	run.py	/^def step_gradient(θ, X, y, alpha):$/;"	f
+theta0	run.py	/^theta0 = 0     # Controls the y-intercept, or the height of the line$/;"	v
+theta1	run.py	/^theta1 = 0     # slope$/;"	v
+y	run.py	/^y = data[:, 1]$/;"	v
